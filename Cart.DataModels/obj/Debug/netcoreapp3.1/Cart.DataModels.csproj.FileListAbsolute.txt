@@ -1,0 +1,8 @@
+C:\Users\DELL\source\repos\CartAPI\Cart.DataModels\bin\Debug\netcoreapp3.1\Cart.DataModels.deps.json
+C:\Users\DELL\source\repos\CartAPI\Cart.DataModels\bin\Debug\netcoreapp3.1\Cart.DataModels.dll
+C:\Users\DELL\source\repos\CartAPI\Cart.DataModels\bin\Debug\netcoreapp3.1\Cart.DataModels.pdb
+C:\Users\DELL\source\repos\CartAPI\Cart.DataModels\obj\Debug\netcoreapp3.1\Cart.DataModels.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\CartAPI\Cart.DataModels\obj\Debug\netcoreapp3.1\Cart.DataModels.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\CartAPI\Cart.DataModels\obj\Debug\netcoreapp3.1\Cart.DataModels.AssemblyInfo.cs
+C:\Users\DELL\source\repos\CartAPI\Cart.DataModels\obj\Debug\netcoreapp3.1\Cart.DataModels.dll
+C:\Users\DELL\source\repos\CartAPI\Cart.DataModels\obj\Debug\netcoreapp3.1\Cart.DataModels.pdb
